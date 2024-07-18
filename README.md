@@ -1,16 +1,5 @@
 <h1 align="center">DotNetRabbitMQ</h1>
 
-</h4>
-<h4 align="center">
-	<a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0">.NET 8.0</a>
-</h4>
-<h4 align="center">
-	<a href="https://www.microsoft.com/pt-br/p/csharp/9n4w6bhc0hml#activetab=pivot:overviewtab">C#</a>
-</h4>
-<h4 align="center">
-	<a href="https://www.rabbitmq.com/">RabbitMQ</a>
-</h4>
-
 ## Descrição
 
 Este repositório contém uma solução em .NET 8 que demonstra a utilização do RabbitMQ para envio e recebimento de mensagens. A solução é composta por dois projetos de console:
